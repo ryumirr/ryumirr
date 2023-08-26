@@ -1,19 +1,12 @@
-### Ryumirr👋
+### 안녕하세요👋
 
-Language: Korean(native), Japanese(Business Fluent), English(Limited Working Proficiency)
+Language: Korean, Japanese, English
 
 ✨🌱✨✨👯🌱👯👯✨✨
-<!--
-**ryumirr/ryumirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+그냥...개발경력 2년정도된 잉여PHPer입니다 :) 
+현재는 백엔드엔지니어로 활동중이에요💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+경력의 반이 물이라서 뛰어넘는게 단기목표입니다💦
+
+취미는 카페에서 책읽으며 죽치기..입니당💩💩💩
